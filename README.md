@@ -1,5 +1,7 @@
 # SWABS
 
+*App is in progress...*
+
 SWAB is a platform for exchanging bitcoin to fiat money and back. You can contact members in your area or at events and
 maximize your privacy by deciding how the exchange goes. Merely, the platform primarily forms an overview for buyers
 and sellers in your area.
